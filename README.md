@@ -1,9 +1,9 @@
 # LeetCode-Journal
-# 🚀 LeetCode 演算法修煉筆記
+# LeetCode 演算法修煉筆記
 
 這是我記錄 LeetCode 解題思路與程式碼的地方。詳細解析與 Solution 皆記錄於 [HackMD](https://hackmd.io/folders/p7db3lYn3ebU3MskK9Vsv)。
 
-## 📊 學習進度
+## 學習進度
 - **累積進度**：
     - 🟢 Easy: 0
     - 🟡 Medium: 1
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ 參考資源
+## 參考資源
 - **題單來源**: [靈茶山艾府 (EndlessCheng)](https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/README.md)
 
 ---
