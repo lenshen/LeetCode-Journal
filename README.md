@@ -19,22 +19,21 @@
 > 3. **出**：左側元素離開窗口，恢復狀態。
 
 
-
 | 題號 | 題目名稱 | 難度 | 完整筆記 (含程式碼) | 狀態 |
 | :--- | :--- | :--- | :--- | :--- |
-| 1456 | 定長子串中元音的最大數目 | 🟢 Easy | [Link]() | ⬜ |
-| 643 | 子數組最大平均數 I | 🟢 Easy | [Link]() | ⬜ |
-| 1343 | 大小為 K 且平均值大於等於閾值的子數組數目 | 🟡 Medium | [Link]() | ⬜ |
-| 2090 | 半徑為 k 的子數組平均值 | 🟡 Medium | [Link]() | ⬜ |
-| 2379 | 得到 K 個黑塊的最少塗色次數 | 🟢 Easy | [Link]() | ⬜ |
-| 1052 | 愛生氣的書店老闆 | 🟡 Medium | [Link]() | ⬜ |
-| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | 🟡 Medium | [點我閱讀](https://hackmd.io/@lenshen/r16F2U_PWe) | ✅ |
-| 2841 | 幾乎唯一子數組的最大和 | 🟡 Medium | [Link]() | ⬜ |
-| 2461 | 長度為 K 且子數組元素各不相同的最大子數組和 | 🟡 Medium | [Link]() | ⬜ |
-| 2653 | 滑動窗口中的第 K 個最小整數 | 🟡 Medium | [Link]() | ⬜ |
-| 2156 | 查找給定哈希值的子字串 | 🔴 Hard | [Link]() | ⬜ |
-| 567 | 字串的排列 | 🟡 Medium | [Link]() | ⬜ |
-| 438 | 找到字串中所有字母異位詞 | 🟡 Medium | [Link]() | ⬜ |
+| 1456 | [定長子串中元音的最大數目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟢 Easy | [Link]() | ⬜ |
+| 643 | [子數組最大平均數 I](https://leetcode.cn/problems/maximum-average-subarray-i/) | 🟢 Easy | [Link]() | ⬜ |
+| 1343 | [大小為 K 且平均值大於等於閾值的子數組數目](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | 🟡 Medium | [Link]() | ⬜ |
+| 2090 | [半徑為 k 的子數組平均值](https://leetcode.cn/problems/k-radius-subarray-averages/) | 🟡 Medium | [Link]() | ⬜ |
+| 2379 | [得到 K 個黑塊的最少塗色次數](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | 🟢 Easy | [Link]() | ⬜ |
+| 1052 | [愛生氣的書店老闆](https://leetcode.cn/problems/grumpy-bookstore-owner/) | 🟡 Medium | [Link]() | ⬜ |
+| 1461 | [檢查一個字串是否包含所有長度為 K 的二進位代碼](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | 🟡 Medium | [點我閱讀](https://hackmd.io/@lenshen/r16F2U_PWe) | ✅ |
+| 2841 | [幾乎唯一子數組的最大和](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarrays/) | 🟡 Medium | [Link]() | ⬜ |
+| 2461 | [長度為 K 且子數組元素各不相同的最大子數組和](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | 🟡 Medium | [Link]() | ⬜ |
+| 2653 | [滑動窗口中的第 K 個最小整數](https://leetcode.cn/problems/sliding-subarray-beauty/) | 🟡 Medium | [Link]() | ⬜ |
+| 2156 | [查找給定哈希值的子字串](https://leetcode.cn/problems/find-substring-with-given-hash-value/) | 🔴 Hard | [Link]() | ⬜ |
+| 567 | [字串的排列](https://leetcode.cn/problems/permutation-in-string/) | 🟡 Medium | [Link]() | ⬜ |
+| 438 | [找到字串中所有字母異位詞](https://leetcode.cn/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | [Link]() | ⬜ |
 
 ## 不定長滑動窗口 (Variable-size Sliding Window)
 > **核心思維：維護一個「合法」的窗口。右指針（入隊）擴張，左指針（出隊）收縮。**
